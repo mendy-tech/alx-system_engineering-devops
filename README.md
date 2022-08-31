@@ -1,1 +1,2 @@
-Shell basics
+#!/bash/bin
+Shell Basics
